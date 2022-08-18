@@ -1,18 +1,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-/*
-ex: bandas[0].disco[0].musicas[0].nome_musica
 
-definir 3 structs - ok
-definir repositorio - ok
-definir função criar structs - ok
-definir função criar repositório - ok
-definir função visualizar as 3 structs - ok
-definir função remover as 3 structs - ok
-definir menu - ok
-
-verificar se as coisas já cadastradas existem - ok
+/* 
+Author: @bennie10colado
 */
 
 struct Musica // musicas
